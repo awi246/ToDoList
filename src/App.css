@@ -1,0 +1,26 @@
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+input{
+   width: 100%;
+}
+
+.text-items{
+   text-align: left;
+   width: 100%;
+}
+
+.Arow{
+   margin:10px 5px;
+   width: 100%;
+}
+
+
+.Abutton{
+   min-width: 70px ;
+   width: 100%;
+}
